@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(235, 57, 83);
+    margin: 0; /* Remove default body margin */
+}
+
+.centerLogo{
+    text-align: center;
+}
+#myLogo {
+    padding: 20px;
+    width: 320px;
+    height: auto;
+}
+.searchBar{
+    text-align: center;
+    margin-top: 15px;
+}
