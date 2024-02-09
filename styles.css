@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(235, 57, 83);
+    background-color: rgb(243, 165, 176);
     margin: 0; /* Remove default body margin */
 }
 
@@ -13,5 +13,4 @@ body {
 }
 .searchBar{
     text-align: center;
-    margin-top: 15px;
 }
